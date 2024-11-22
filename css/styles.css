@@ -261,12 +261,14 @@ footer {
 }
 
 .experience-container_text{
-  font-size: 18px;
-  font-weight: bold;
-  margin: 0;
-  color: var(--color4);
   text-align: left;
-  margin-bottom: 10px; /* Agrega espacio entre cada línea */
+  padding: 15px 0;
+  background-color: var(--background);
+  color: var(--color4);
+  font-size: 16px;
+  width: 100%;
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+
 }
 
 }
